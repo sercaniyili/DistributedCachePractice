@@ -1,0 +1,12 @@
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\bin\Debug\net6.0\RedisDistributedCacheApp.Cache.deps.json
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\bin\Debug\net6.0\RedisDistributedCacheApp.Cache.dll
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\bin\Debug\net6.0\RedisDistributedCacheApp.Cache.pdb
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.csproj.AssemblyReference.cache
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.AssemblyInfoInputs.cache
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.AssemblyInfo.cs
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.csproj.CoreCompileInputs.cache
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.dll
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\refint\RedisDistributedCacheApp.Cache.dll
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\RedisDistributedCacheApp.Cache.pdb
+C:\Users\sercan\Desktop\Yazılım\RedisDistributedCacheApp.API\RedisDistributedCacheApp.Cache\obj\Debug\net6.0\ref\RedisDistributedCacheApp.Cache.dll

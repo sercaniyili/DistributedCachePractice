@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tImGVCZ2kgcsVAzImDoDEp5YpZO2ZzdMAZ82LzOjC4k=",
+  "Source": "RedisDistributedCacheApp.API",
+  "BasePath": "_content/RedisDistributedCacheApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

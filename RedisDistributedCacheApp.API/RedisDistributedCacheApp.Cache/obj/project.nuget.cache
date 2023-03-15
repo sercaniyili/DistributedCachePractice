@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tv7QCMORpmlvfI2XhpWYNWSkC/pdC4ELYg4rOm3Fe8iAg5h0DMqcB7p4ynHWCnqCOM2R4u3laVQL79waJQJYdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sercan\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\sercan\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\sercan\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
