@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using RedisDistributedCacheApp.API.Model;
 using RedisDistributedCacheApp.API.Repositories;
+using RedisDistributedCacheApp.API.Services;
 using RedisDistributedCacheApp.Cache;
 using StackExchange.Redis;
 
@@ -14,7 +15,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 builder.Services.AddScoped<IProductRepository>(x =>
 {

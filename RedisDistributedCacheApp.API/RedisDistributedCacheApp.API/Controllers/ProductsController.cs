@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RedisDistributedCacheApp.API.Model;
 using RedisDistributedCacheApp.API.Repositories;
+using RedisDistributedCacheApp.API.Services;
 using RedisDistributedCacheApp.Cache;
 using StackExchange.Redis;
 using System.Security.AccessControl;
@@ -11,37 +12,29 @@ namespace RedisDistributedCacheApp.API.Controllers
     [ApiController]
     public class ProductsController : Controller
     {
-        private readonly IProductRepository _productRepository;
-        //private readonly RedisService redisService;
-        private readonly IDatabase _database;
+        private readonly IProductService _productService;
 
-
-        public ProductsController(IProductRepository productRepository)//, IDatabase database)//RedisService redisService)
+        public ProductsController(IProductService productService)
         {
-            _productRepository = productRepository;
-        //    _database = database;
-        //  _database.StringSet("soyad","asdaasd");
-
-            //var db = redisService.GetDb(0);
-            //db.StringSet("isim", "Ahmet");
+            _productService = productService;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            return Ok(await _productRepository.GetAsync());
+            return Ok(await _productService.GetAsync());
         }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            return Ok(await _productRepository.GetByIdAsync(id));
+            return Ok(await _productService.GetByIdAsync(id));
         }
 
         [HttpPost]
         public async Task<IActionResult> Create(Product product)
         {
-            return Created(string.Empty, await _productRepository.CreateAsync(product));
+            return Created(string.Empty, await _productService.CreateAsync(product));
         }
 
     }

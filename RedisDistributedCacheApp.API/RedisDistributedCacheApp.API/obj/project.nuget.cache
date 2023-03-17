@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXH7uFafn/YrQMbCqQtMFTN718LyHV+NH7I+7h3Z2b0tco+7TZNYim9t8rnDDQ0TWQoZvsM5MjddyM+1TWaf+w==",
+  "dgSpecHash": "vuEWcBakq8LpYBpX8UuhgkQTOJZakrBkkcizBbv/gnoDJ22cBG9b+JeD6p6BS9xCzfCu+XOyMEm7eDcUFvj+ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
+  "projectFilePath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sercan\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\sercan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",

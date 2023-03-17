@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
+      "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
       "projectName": "RedisDistributedCacheApp.Cache",
-      "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
+      "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
       "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\obj\\",
+      "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",

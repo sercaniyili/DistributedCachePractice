@@ -18,7 +18,7 @@ namespace RedisDistributedCacheApp.API.Repositories
         {
             _redisService = redisService;
             _productRepository = productRepository;
-            _cacheRepository = redisService.GetDb(2);
+            _cacheRepository = redisService.GetDb(1);
         }
 
         public async Task<Product> CreateAsync(Product product)

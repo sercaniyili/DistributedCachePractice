@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj": {}
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj": {
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
         "projectName": "RedisDistributedCacheApp.API",
-        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
+        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API.csproj",
         "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\obj\\",
+        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj": {
-                "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj"
+              "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj": {
+                "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj": {
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
+        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
         "projectName": "RedisDistributedCacheApp.Cache",
-        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
+        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\RedisDistributedCacheApp.Cache.csproj",
         "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\obj\\",
+        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\RedisPractice\\RedisDistributedCacheApp.API\\RedisDistributedCacheApp.Cache\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
